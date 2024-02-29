@@ -2,7 +2,7 @@ repo_name: emanamr/coffeeshop
 report_id: 39cf78418dcd9029e2d9f705adef0a59
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:12:45+00:00'
+timestamp: '2024-02-29T19:22:19+00:00'
 requested_by: emanamr
 provider: github
 branch: master
@@ -753,6 +753,12 @@ tools:
     detected_date: Aug 22
     severity: critical
     first_patched: 0.13.3
+  - name: Minerva timing attack on P-256 in python-ecdsa
+    cve_id: CVE-2024-23342
+    cve_url: https://github.com/advisories/GHSA-wj6h-64fc-37mp
+    detected_date: Jan 23
+    severity: high
+    first_patched: 
   - name: ecdsa Denial of Service vulnerability in signature verification and signature
       malleability
     cve_id: CVE-2019-14853
@@ -864,6 +870,12 @@ tools:
     detected_date: Aug 22
     severity: high
     first_patched: 3.6.6
+  - name: PyCryptodome and pycryptodomex side-channel leakage for OAEP decryption
+    cve_id: CVE-2023-52323
+    cve_url: https://github.com/advisories/GHSA-j225-cvw7-qrx7
+    detected_date: Jan 6
+    severity: moderate
+    first_patched: 3.19.1
 - name: six
   description: Python 2 and 3 compatibility utilities
   package_url: https://pypi.org/project/six
