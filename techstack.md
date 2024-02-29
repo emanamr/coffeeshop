@@ -3,20 +3,20 @@
 ## Tech Stack
 emanamr/coffeeshop is built on the following main stack:
 
-- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
-- [Python](https://www.python.org) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Karma](http://karma-runner.github.io/) – Browser Testing
+- [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
+- [Python](https://www.python.org) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
+- [Angular](https://angular.io) – Javascript MVC Frameworks
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
 - [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
-- [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [Angular](https://angular.io) – Javascript MVC Frameworks
+- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- [Karma](http://karma-runner.github.io/) – Browser Testing
+- [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
 - [Pylint](https://www.pylint.org/) – Code Review
 - [TSLint](https://github.com/palantir/tslint) – Code Review
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -26,20 +26,20 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 emanamr/coffeeshop is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1754/protractor-logo1.png' alt='Protractor'/> [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg' alt='Angular'/> [Angular](https://angular.io) – Javascript MVC Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1796/984368.png' alt='RxJS'/> [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/1839/q5uAkmy7.png' alt='SQLAlchemy'/> [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg' alt='Angular'/> [Angular](https://angular.io) – Javascript MVC Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/1754/protractor-logo1.png' alt='Protractor'/> [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/4837/py.jpg' alt='Pylint'/> [Pylint](https://www.pylint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/5561/303157.png' alt='TSLint'/> [TSLint](https://github.com/palantir/tslint) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -50,7 +50,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [emanamr/coffeeshop](https://github.com/emanamr/coffeeshop)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|62<br/>Tools used|01/05/24 <br/>Report generated|
+|62<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -263,13 +263,13 @@ Full tech stack [here](/techstack.md)
 |[MarkupSafe](https://pypi.org/project/MarkupSafe)|v1.1.1|05/26/20|eman amr |BSD-3-Clause|N/A|
 |[Werkzeug](https://pypi.org/project/Werkzeug)|v0.15.2|05/26/20|eman amr |BSD-3-Clause|[CVE-2023-25577](https://github.com/advisories/GHSA-xg9f-g7g7-2323) (High)<br/>[CVE-2023-23934](https://github.com/advisories/GHSA-px8h-6qxv-m22q) (Low)|
 |[astroid](https://pypi.org/project/astroid)|v2.2.5|05/26/20|eman amr |LGPL-2.1|N/A|
-|[ecdsa](https://pypi.org/project/ecdsa)|v0.13.2|05/26/20|eman amr |MIT|[CVE-2019-14859](https://github.com/advisories/GHSA-8qxj-f9rh-9fg2) (Critical)<br/>[CVE-2019-14853](https://github.com/advisories/GHSA-pwfw-mgfj-7g3g) (High)<br/>[](https://github.com/advisories/GHSA-2mrj-435v-c2cr) (Moderate)|
+|[ecdsa](https://pypi.org/project/ecdsa)|v0.13.2|05/26/20|eman amr |MIT|[CVE-2019-14859](https://github.com/advisories/GHSA-8qxj-f9rh-9fg2) (Critical)<br/>[CVE-2024-23342](https://github.com/advisories/GHSA-wj6h-64fc-37mp) (High)<br/>[CVE-2019-14853](https://github.com/advisories/GHSA-pwfw-mgfj-7g3g) (High)<br/>[](https://github.com/advisories/GHSA-2mrj-435v-c2cr) (Moderate)|
 |[future](https://pypi.org/project/future)|v0.17.1|05/26/20|eman amr |MIT|[CVE-2022-40899](https://github.com/advisories/GHSA-v3c5-jqr6-7qm8) (High)|
 |[isort](https://pypi.org/project/isort)|v4.3.18|05/26/20|eman amr |MIT|N/A|
 |[itsdangerous](https://pypi.org/project/itsdangerous)|v1.1.0|05/26/20|eman amr |BSD-3-Clause|N/A|
 |[lazy-object-proxy](https://pypi.org/project/lazy-object-proxy)|v1.4.0|05/26/20|eman amr |BSD-2-Clause|N/A|
 |[mccabe](https://pypi.org/project/mccabe)|v0.6.1|05/26/20|eman amr |Saxpath|N/A|
-|[pycryptodome](https://pypi.org/project/pycryptodome)|v3.3.1|05/26/20|eman amr |BSD-3-Clause,Unlicense,Apache-2.0|[CVE-2018-15560](https://github.com/advisories/GHSA-hgg3-g7gr-66r7) (High)|
+|[pycryptodome](https://pypi.org/project/pycryptodome)|v3.3.1|05/26/20|eman amr |BSD-3-Clause,Unlicense,Apache-2.0|[CVE-2018-15560](https://github.com/advisories/GHSA-hgg3-g7gr-66r7) (High)<br/>[CVE-2023-52323](https://github.com/advisories/GHSA-j225-cvw7-qrx7) (Moderate)|
 |[six](https://pypi.org/project/six)|v1.12.0|05/26/20|eman amr |MIT|N/A|
 |[typed-ast](https://pypi.org/project/typed-ast)|v1.4.1|05/26/20|eman amr |Apache-2.0|N/A|
 |[wrapt](https://pypi.org/project/wrapt)|v1.11.1|05/26/20|eman amr |BSD-2-Clause|N/A|
